@@ -1,3 +1,39 @@
 * {
   box-sizing: border-box;
 }
+body {
+  background-color: #001414;
+  font-family: "Fira Code", Arial, Helvetica, sans-serif;
+}
+.section_0 {
+  height: 1298px;
+  background-image: url("../images/for_title.png");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #00ffa6;
+  gap: 150px;
+}
+.Title {
+  color: #00ffa6;
+  font-size: 200px;
+  margin-top: 180px;
+  font-weight: 700;
+}
+.TextH2 {
+  color: #00ffa6;
+  font-size: 80px;
+  font-weight: 700;
+}
+.JustText {
+  color: #00d48a;
+  font-size: 24px;
+}
+.ImageS {
+  text-align: center;
+  position: fixed;
+}
+.abb {
+  margin-top: 200px;
+}
